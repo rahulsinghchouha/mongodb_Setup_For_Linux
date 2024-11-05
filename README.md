@@ -1,9 +1,7 @@
 # mongodb_Setup_For_Linux
 
 
-how to setup mongodb server ,compass and  shell for linux
-ChatGPT said:
-ChatGPT
+
 To set up MongoDB on a Linux system, including installing the MongoDB server, MongoDB Compass (GUI), and MongoDB Shell, follow these steps:
 
 1. Installing MongoDB Server
